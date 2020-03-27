@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec51c049-05e4-4c30-98aa-02711d446506" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.yarn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/.yarnrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/knexfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/controllers/IncidentController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/controllers/OngController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/controllers/ProfileController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/controllers/SessionController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/database/connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/database/db.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/database/migrations/20200325092243_create_ongs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/database/migrations/20200325093211_create_incidents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../frontend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Detail/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Detail/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Incidents/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Incidents/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Zi0VQ5speYPOhnb663CYEgfuZR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec51c049-05e4-4c30-98aa-02711d446506" name="Default Changelist" comment="" />
+      <created>1585306629101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585306629101</updated>
+      <workItem from="1585306630655" duration="1128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1360" y="-75" key="#Notifications" timestamp="1585311608852">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="-75" key="#Notifications/-1920.-280.1920.1080/0.0.1280.800@-1920.-280.1920.1080" timestamp="1585311608852" />
+    <state x="-1375" y="-144" key="CommitChangelistDialog2" timestamp="1585311714910">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state x="-1375" y="-144" key="CommitChangelistDialog2/-1920.-280.1920.1080/0.0.1280.800@-1920.-280.1920.1080" timestamp="1585311714910" />
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom" timestamp="1585306817557">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.bottom/-1920.-280.1920.1080/0.0.1280.800@-1920.-280.1920.1080" timestamp="1585306817557" />
+    <state width="1899" height="304" key="GridCell.Tab.0.center" timestamp="1585306817555">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.center/-1920.-280.1920.1080/0.0.1280.800@-1920.-280.1920.1080" timestamp="1585306817555" />
+    <state width="1899" height="304" key="GridCell.Tab.0.left" timestamp="1585306817554">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.left/-1920.-280.1920.1080/0.0.1280.800@-1920.-280.1920.1080" timestamp="1585306817554" />
+    <state width="1899" height="304" key="GridCell.Tab.0.right" timestamp="1585306817556">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="304" key="GridCell.Tab.0.right/-1920.-280.1920.1080/0.0.1280.800@-1920.-280.1920.1080" timestamp="1585306817556" />
+    <state x="-1360" y="0" key="Vcs.Push.Dialog.v2" timestamp="1585311586251">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state x="-1360" y="0" key="Vcs.Push.Dialog.v2/-1920.-280.1920.1080/0.0.1280.800@-1920.-280.1920.1080" timestamp="1585311586251" />
+    <state x="-1295" y="-39" width="670" height="676" key="search.everywhere.popup" timestamp="1585311774595">
+      <screen x="-1920" y="-280" width="1920" height="1080" />
+    </state>
+    <state x="-1295" y="-39" width="670" height="676" key="search.everywhere.popup/-1920.-280.1920.1080/0.0.1280.800@-1920.-280.1920.1080" timestamp="1585311774595" />
+  </component>
+</project>
